@@ -2,7 +2,7 @@
 
 module.exports = {
     publicPath: process.env.NODE_ENV === 'production'
-      ? '/vue-crash-todolist/'
+      ? '/vue_crash_todolist/'
       : '/'
   }
   
