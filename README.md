@@ -1,5 +1,7 @@
 # vue_crash_todolist
 
+Small TODO application done in 2019 following a Vue Crash Course on YouTube. Apllication available at: [modokemdev.com/vue_crash_todolist/](https://modokemdev.com/vue_crash_todolist/).
+
 ## Project setup
 
 ```console
